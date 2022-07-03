@@ -75,7 +75,7 @@ function About(props)
                 </div>
             </div>
             {/* <button className="btn btn-primary my-3" onClick={toggleThemeStyle}>{btnText}</button> */}
-            <div style={{height: "280px"}}></div>
+            <div style={{height: "500px"}}></div>
         </div>
         )
 }
