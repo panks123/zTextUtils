@@ -28,6 +28,7 @@
     font-family: Georgia, serif;
     font-weight: bold;
     margin-right: 2px;
+    transform: rotate(27deg);
 }
 
 #me {

@@ -10,7 +10,7 @@ function Footer(props){
 
             <div className="footer-item" id="item2">Pankaj Kumar</div>
 
-            <div className="footer-item" id="item3">Copyright © <span id="copyright-year">{props.year}</span> <span className="i">i</span>TextUtils</div>
+            <div className="footer-item" id="item3">Copyright © <span id="copyright-year">{props.year}</span> <span className="i">z</span>TextUtils</div>
 
             <div className="footer-item" id="item4">
                 <a href="https://www.linkedin.com/in/pankaj-kumar-353358120/" target="_blank" rel="noopener noreferrer">

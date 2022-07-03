@@ -30,12 +30,12 @@ function About(props)
         color: 'rgb(232, 41, 31)',
         fontWeight: 'bold',
         fontFamily: 'Georgia, serif',
-        marginRight: '2px'
+        marginRight: '1px',
     }
 
     return(
         <div className="container my-3" style={{color : props.mode ==="dark" ? "#d9d9d9" : "black"}}>
-            <h3>About <span style={iStyle}>i</span>TextUtils</h3>
+            <h3>About <span style={iStyle}>z</span>TextUtils</h3>
             <div className="accordion" id="accordionExample">
                 <div className="accordion-item" style={themeStyle}>
                     <h2 className="accordion-header" id="headingOne" onClick={handleClick}>
