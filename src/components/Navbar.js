@@ -9,7 +9,7 @@ export default function Navbar(props){
         color: 'rgb(232, 41, 31)',
         fontWeight: 'bold',
         fontFamily: 'Georgia, serif',
-        marginRight: '2px'
+        marginRight: '1px'
     }
 
     return (
